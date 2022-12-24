@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "GOOG",
+    "price": 89.81,
+    "imgUrl": "/imgs/google.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "AMZN",
+    "price": 85.25,
+    "imgUrl": "/imgs/amazon.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "META",
+    "price": 118.04,
+    "imgUrl": "/imgs/meta.jpg"
+  },
+  {
+    "id": 4,
+    "name": "MSFT",
+    "price": 238.73,
+    "imgUrl": "/imgs/mfst.jpg"
+  },
+  {
+    "id": 5,
+    "name": "AAPL",
+    "price": 131.86,
+    "imgUrl": "/imgs/apple.jpg"
+  },
+  {
+    "id": 6,
+    "name": "NFLX",
+    "price": 294.97,
+    "imgUrl": "/imgs/netflix.jpg"
+  }
+]
